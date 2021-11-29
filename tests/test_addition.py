@@ -1,5 +1,5 @@
 import pytest
-from opeartion import addition
+from operation.addition import addition
 
 def test_add_positive():
     assert addition(5,6) == 11
