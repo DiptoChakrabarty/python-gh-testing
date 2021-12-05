@@ -19,3 +19,9 @@ Repo to test python code with gh actions
 - test_operation.py : testing of opeartion.py file
 - BankCode.py : Create Classa Bank and add methods
 - test_bank.py : Testing of the bank class and its methods
+
+## Install code as package
+```sh
+- The code is present in src/ folder
+- To install that code as package use command ppip install -e .
+```
